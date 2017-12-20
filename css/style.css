@@ -1,16 +1,19 @@
 body{
-	background-color: #bdbdbd;
+	background-color: #999999;
 }
 .main-nav{
 	padding-left: 6em;
+	padding-right: 4em;
 }
 /*.right-nav{
 	margin-left: 45em;
 }*/
 .login-container{
 	margin-top: 3em;
-	width: 70%
+	width: 60%
 }
+
+
 .left-card{
 	height: 500px;
 	padding-top: 2em;
@@ -29,15 +32,15 @@ body{
 .card-img{
 	margin-left: 10em;
 }
-.right-nav-row{
-	background-color: transparent;
-	padding-top: 25px; 
-	height: 15%;
-	border-bottom: 2px solid #bdbdbd;
+.nav-row{
+	background-color: #f2f2f2;
+	/*padding-top: 25px; */
+	/*height: 25%;*/
+	border-bottom: 1px solid #ccc;
 
 }
 .auth-btn{
-	color: #3fb1a4;
+	color: #999;
 }
 .sign-in-form{
 	padding-top: 3em;
